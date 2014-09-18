@@ -1,3 +1,6 @@
 escribiendo desde el remoto
 y esta otra linea se escribio local
 esta linea la escribi desde el fork
+
+
+estoy haciendo modificaciones desde una subrama
